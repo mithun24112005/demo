@@ -37,7 +37,9 @@ FROM PC
 <br>
 <br>
 
-"<break_line -->br>" --> next line ,  *Using Two Spaces at the End of a Line  *Using a Blank Line  
+"<break_line -->br>" --> next line ,  
+*Using Two Spaces at the End of a Line  
+*Using a Blank Line  
 <br>
 "<paragraph -->p>" -->paragraph
 <br>
