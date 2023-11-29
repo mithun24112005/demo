@@ -37,9 +37,9 @@ FROM PC
 <br>
 <br>
 
-"<br>" --> next line
+"<break_line -->br>" --> next line
 <br>
-"<p>" -->paragraph
+"<paragraph -->p>" -->paragraph
 <br>
 cd --> change dir
 <br>
