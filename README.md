@@ -22,8 +22,8 @@ commit
 push
 
 
-<br> --> next line
-<p> -->paragraph
+"<br>" --> next line
+"<p>" -->paragraph
 cd --> change dir
 ls --> list
 git clone --> cloning a repose
